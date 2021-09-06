@@ -1,7 +1,11 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
 import java.util.concurrent.TimeUnit;
+/*
+ * class for driver creation
+ *
+ * @author VanajaGorantla
+ */
 
 public  class Driver {
     public static WebDriver driver;

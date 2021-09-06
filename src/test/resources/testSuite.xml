@@ -3,7 +3,7 @@
 <suite name="snapdeal Test Suite">
     <test name="testSnapdeal">
         <classes>
-            <class name="testSnapdeal" />
+            <class name="testSnapdeal"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
