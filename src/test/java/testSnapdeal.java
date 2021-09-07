@@ -12,7 +12,7 @@ public class testSnapdeal extends BaseTest {
     String text;
 
     /*
-    search for mobile phone in snapdeal
+    search for item=mobile phone in snapdeal
     */
     @Test
     public void testSnapdealSearch() throws InterruptedException {
